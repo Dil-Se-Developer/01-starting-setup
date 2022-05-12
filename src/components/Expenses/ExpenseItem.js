@@ -10,7 +10,7 @@ const ExpenseItem = (props) => {
   console.log('ExpeseItem evaluated by React');
 
   const clickHandler = () => {
-    setTitle("Updated!$");
+    setTitle("Updated!$f");
     console.log(title);
   };
 
